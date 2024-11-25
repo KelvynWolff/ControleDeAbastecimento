@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\kelvy\OneDrive\Área de Trabalho\Material 2° Semestre\Prog Mobile\controle_de_abastecimento"
+export "FLUTTER_APPLICATION_PATH=C:\Users\kelvy\Desktop\Material 2 Semestre\ProgMobile\ControleDeAbastecimento"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
